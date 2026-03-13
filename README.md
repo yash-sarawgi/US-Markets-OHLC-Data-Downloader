@@ -46,7 +46,6 @@ research**.
     ├── alpaca_batch_gui.py    # Batch downloader interface
     ├── config.py              # API configuration (not for public sharing)
     ├── README.md              # Project documentation
-    └── requirements.txt       # Python dependencies (optional)
 
 ------------------------------------------------------------------------
 
@@ -137,16 +136,6 @@ This tool is useful for:
 
 ------------------------------------------------------------------------
 
-## 🔐 Security Notice
-
-**Never upload your API keys to GitHub.**
-
-Add the following to `.gitignore`:
-
-    config.py
-
-------------------------------------------------------------------------
-
 ## 📜 License
 
 MIT License
@@ -157,7 +146,7 @@ MIT License
 
 **Yash Sarawgi**\
 CFTe \| CMT Level III\
-Equity Trader & Quant Researcher
+Equity Trader & Researcher
 
 ------------------------------------------------------------------------
 
