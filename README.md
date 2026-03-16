@@ -1,4 +1,4 @@
-# 📈 US Markets OHLC Data Downloader
+# US Markets OHLC Data Downloader
 
 Python GUI application for downloading **historical intraday OHLCV
 market data for US equities** using the **Alpaca Market Data API**.
@@ -9,28 +9,28 @@ analysis, and research pipelines**.
 
 ------------------------------------------------------------------------
 
-## 🚀 Key Features
+## Key Features
 
--   📊 Download **historical OHLCV data** for US stocks\
--   ⏱ Supports **intraday timeframes**
+-   Download **historical OHLCV data** for US stocks\
+-   Supports **intraday timeframes**
     -   1 Minute
     -   5 Minutes
     -   15 Minutes
--   🖥 **Simple GUI interface (Tkinter)**
--   🧹 Automatic **data cleaning and formatting**
--   🕒 Converts timestamps to **US/Eastern timezone**
--   📉 Filters **Regular Trading Hours (09:30--16:00)**
--   📁 Exports clean **CSV datasets**
+-   **Simple GUI interface (Tkinter)**
+-   Automatic **data cleaning and formatting**
+-   Converts timestamps to **US/Eastern timezone**
+-   Filters **Regular Trading Hours (09:30--16:00)**
+-   Exports clean **CSV datasets**
 
 ------------------------------------------------------------------------
 
-## 🖥 Application Overview
+## Application Overview
 
 The application provides a simple interface where users can:
 
-1.  Enter a stock ticker\
-2.  Select a timeframe\
-3.  Choose start and end dates\
+1.  Enter a stock ticker
+2.  Select a timeframe
+3.  Choose start and end dates
 4.  Download the dataset as a CSV file
 
 This allows quick generation of **ready-to-use datasets for trading
@@ -38,7 +38,7 @@ research**.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
     US-Markets-OHLC-Data-Downloader
     │
@@ -49,16 +49,16 @@ research**.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation
+## Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ``` bash
 git clone https://github.com/YOUR_USERNAME/US-Markets-OHLC-Data-Downloader.git
 cd US-Markets-OHLC-Data-Downloader
 ```
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
 ``` bash
 pip install alpaca-py pandas
@@ -68,7 +68,7 @@ Tkinter is included with most Python installations.
 
 ------------------------------------------------------------------------
 
-### 3️⃣ Configure Alpaca API
+### Configure Alpaca API
 
 Create or edit `config.py`:
 
@@ -83,7 +83,7 @@ https://alpaca.markets/
 
 ------------------------------------------------------------------------
 
-## ▶️ Usage
+## Usage
 
 Run the GUI application:
 
@@ -104,7 +104,7 @@ Click **Fetch Data** and the dataset will be saved automatically.
 
 ------------------------------------------------------------------------
 
-## 📊 Output Dataset Format
+## Output Dataset Format
 
 Example CSV output:
 
@@ -115,19 +115,7 @@ timestamp,symbol,open,high,low,close,volume,trade_count,vwap
 
 ------------------------------------------------------------------------
 
-## 🧠 Use Cases
-
-This tool is useful for:
-
--   Quantitative trading research\
--   Strategy backtesting\
--   Machine learning datasets\
--   Market microstructure analysis\
--   Intraday volatility studies
-
-------------------------------------------------------------------------
-
-## ⚠️ Important Notes
+## Important Notes
 
 -   Data availability depends on your **Alpaca Market Data
     subscription**
@@ -136,21 +124,15 @@ This tool is useful for:
 
 ------------------------------------------------------------------------
 
-## 📜 License
-
-MIT License
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
+## Builder
 
 **Yash Sarawgi**\
 CFTe \| CMT Level III\
-Equity Trader & Researcher
+Trader & Equity Research
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is intended for **educational and research purposes
 only**.\
@@ -158,8 +140,16 @@ It does **not constitute financial advice or trading recommendations**.
 
 ------------------------------------------------------------------------
 
-## ⭐ Contributing
+## Contributing
 
 Contributions, improvements, and feature requests are welcome.
 
 If you find this project useful, consider **starring the repository**.
+
+------------------------------------------------------------------------
+
+## License
+
+MIT License
+
+------------------------------------------------------------------------
