@@ -54,7 +54,7 @@ research**.
 ### Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/US-Markets-OHLC-Data-Downloader.git
+git clone https://github.com/yash-sarawgi/US-Markets-OHLC-Data-Downloader.git
 cd US-Markets-OHLC-Data-Downloader
 ```
 
@@ -148,8 +148,8 @@ If you find this project useful, consider **starring the repository**.
 
 ------------------------------------------------------------------------
 
-## License
+# License
 
-MIT License
+This project is licensed under the MIT License.
 
-------------------------------------------------------------------------
+See the `LICENSE` file for details.
