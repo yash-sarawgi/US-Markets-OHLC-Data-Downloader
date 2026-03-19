@@ -148,8 +148,7 @@ If you find this project useful, consider **starring the repository**.
 
 ------------------------------------------------------------------------
 
-# License
+## License & Usage Restrictions
 
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for details.
+This repository is licensed under CC BY-NC 4.0.
+See the LICENSE file for details.
