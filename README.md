@@ -151,4 +151,5 @@ If you find this project useful, consider **starring the repository**.
 ## License & Usage Restrictions
 
 This repository is licensed under CC BY-NC 4.0.
-See the LICENSE file for details.
+
+See the `LICENSE` file for details.
